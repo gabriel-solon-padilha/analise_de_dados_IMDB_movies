@@ -1,6 +1,6 @@
-# miniprojeto3-analise_de_dados_com_pandas
+# projeto3-analise_de_dados_com_pandas
 
-Miniprojeto envolveu a análise de 3 datasets relacionados aos filmes do site IMBD. Procedimentos realizados:
+Projeto envolveu a análise de 3 datasets relacionados aos filmes do site IMBD. Procedimentos realizados:
 
 1. inspeção dos datasetes
 2. tratamento de dados missing 
